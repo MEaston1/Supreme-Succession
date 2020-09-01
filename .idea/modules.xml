@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Supreme_Succession.iml" filepath="$PROJECT_DIR$/.idea/modules/Supreme_Succession.iml" group="Supreme_Succession" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Supreme Succession/app" />
+    </modules>
+  </component>
+</project>

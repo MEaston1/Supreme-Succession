@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/kim_yo_jong</item>
+        <item>@drawable/kim_jong_chol</item>
+        <item>@drawable/kim_ju_ae</item>
+        <item>@drawable/america_and_south_korea</item>
+        <item>@drawable/china</item>
+        <item>@drawable/choe_ryong_hae</item>
+        <item>@drawable/pak_pong_ju</item>
+        <item>@drawable/kim_tok_hun</item>
+
+    </array>
+
+    <string-array name="names">
+        <item>Kim Yo Jong</item>
+        <item>Kim Jong Chol</item>
+        <item>Kim Ju Ae</item>
+        <item>America and South Korea</item>
+        <item>China</item>
+        <item>Choe Ryong Hae</item>
+        <item>Pak Pong Ju</item>
+        <item>Kim Tok Hun</item>
+    </string-array>
+
+    <string-array name="descriptions">
+    <item>is a North Korean politician serving as the first vice director. Kim is the youngest child of second leader of North Korea, Kim Jong-il. She is the younger sister of Kim Jong-un, the current supreme leader, and is considered to be a possible successor.</item>
+        <item>Kim Jong-chul, sometimes spelled Kim Jong Chol, is a son of former North Korean Supreme Leader Kim Jong-il. His younger brother is current Supreme Leader Kim Jong-un.</item>
+        <item>Kim Ju Ae is the first daughter of Kim Jong Un, although born in 2013 she is unlikely to become a viable leader for the DPRK until many years into the future.</item>
+        <item>Although unlikely, if the korean peninsula were to once again become destabilised following the passing of Kim Jong Un  where is a small chance that the United States and South Korea seize the opportunity to push northwards of the 9-dash line and gain further territory as the korean war has not officially ended.</item>
+        <item>To avoid South Korea and the United States from taking advantage of a destabilised North Korea following the death of Kim Jong Un, China could annex North Korea to prevent hostile forces from getting close to its border. This is increasingly likely in such a scenario due to the rapidly increasing power and economic might of China. China played a large part in the Korean war, and is one of the main reasons why North Korea exists today as a buffer state.</item>
+        <item>Kim Jae-ryong is a high ranking North Korean politician who has served as President of the Presidium of the Supreme Peoples Assembly and First Vice Chairman of the State Affairs Commission since April 2019. He is a member of the Presidium of the Workers Party of Korea</item>
+        <item>Pak Pong-ju is a North Korean politician who served as Premier of North Korea from 2004 until 2007, and again from 2013 until 2019. He was elected a member of the Presidium of the Workers Party of Korea in 2016.</item>
+        <item> Kim Tok Hun is the newly serving Premier of North Korea as of August 13th 2020, with long standing experience in  state and party positions within the DPRK power structure. He is also a member of the Presidium of the Politburo of the Workers Party. He keeps a low profile, with no recent images of him available online.</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://en.wikipedia.org/wiki/Kim_Yo-jong</item>
+        <item>https://en.wikipedia.org/wiki/Kim_Jong-chul</item>
+        <item>https://en.wikipedia.org/wiki/Ri_Sol-ju#Marriage</item>
+        <item>https://en.wikipedia.org/wiki/United_States_Forces_Korea</item>
+        <item>https://en.wikipedia.org/wiki/People%27s_Volunteer_Army</item>
+        <item>https://en.wikipedia.org/wiki/Choe_Ryong-hae</item>
+        <item>https://en.wikipedia.org/wiki/Pak_Pong-ju</item>
+        <item>https://en.wikipedia.org/wiki/Kim_Tok-hun</item>
+    </string-array>
+</resources>
