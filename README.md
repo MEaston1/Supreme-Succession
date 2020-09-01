@@ -8,4 +8,4 @@ candidate's information profile will be shown in a fragment along with a link to
 ![Image of Home-Screen](https://github.com/MEaston1/Supreme-Succession/blob/master/homescreen.PNG)
 The app also includes a grid recyclerview which displays a list of all potential candidates and serves as an access point to view all of their detail
 profiles. 
-![Image of Home-Screen](https://github.com/MEaston1/Supreme-Succession/blob/master/contenderscreen.PNG)
+![Image of Contenders-Screen](https://github.com/MEaston1/Supreme-Succession/blob/master/contenderscreen.PNG)
