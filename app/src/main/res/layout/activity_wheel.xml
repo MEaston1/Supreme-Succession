@@ -14,10 +14,10 @@
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="30sp"
+        android:text="Your next contender is..."
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:text="Your next contender is..." />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/rol_body"
