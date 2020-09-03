@@ -6,4 +6,57 @@
     android:layout_height="match_parent"
     tools:context=".WheelActivity">
 
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Your next contender is..." />
+
+    <ImageView
+        android:id="@+id/rol_body"
+        android:layout_width="410dp"
+        android:layout_height="410dp"
+        app:layout_constraintBottom_toBottomOf="@+id/rol_border"
+        app:layout_constraintEnd_toEndOf="@+id/rol_border"
+        app:layout_constraintStart_toStartOf="@+id/rol_border"
+        app:layout_constraintTop_toTopOf="@+id/rol_border"
+        app:layout_constraintVertical_bias="0.32"
+        app:srcCompat="@drawable/roulette_body" />
+
+    <ImageView
+        android:id="@+id/rol_border"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginBottom="200dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/roulette_border" />
+
+    <Button
+        android:id="@+id/spin_button"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/bg_btn_primary"
+        android:fontFamily="@font/mmedium"
+        android:text="Spin"
+        android:textAllCaps="false"
+        android:textColor="#FFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
